@@ -1,0 +1,35 @@
+[
+	{
+		"id":   "back",			
+		"type": "button",			
+		"img":	"left_arrow.png"
+	},
+	{
+		"id":   "fwd",			
+		"type": "button",			
+		"img":	"right_arrow.png"
+	},
+	{
+		"id":   "reload",			
+		"type": "button",			
+		"img":	"reload.png"
+	},
+	{
+		"id":   "home",			
+		"type": "button",			
+		"img":	"add.png",
+		"text":	"Add"
+	},
+	{
+		"id":   "edit",			
+		"type": "button",			
+		"img":	"edit.png",
+		"text":	"Edit"
+	},
+	{
+		"id":   "delete",			
+		"type": "button",			
+		"img":	"delete.png",
+		"text":	"Delete"
+	}
+]
